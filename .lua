@@ -1,4 +1,5 @@
---[[local workspace = game:GetService("Workspace")
+--[[Пример
+local workspace = game:GetService("Workspace")
 local players = game:GetService("Players")
 local runService = game:GetService("RunService")
 local vim = game:GetService("VirtualInputManager")
